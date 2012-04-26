@@ -12,11 +12,9 @@ Starter theme used for WordPress projects.
 Sky Starter is a naked wordpress theme based on the famous Bootstrap framework from Twitter. It also provides various helper functions to aide in the development of custom WordPress themes.
 
 = Website =
-http://cory-crowley.com/sky-starter/
+http://corycrowley.github.com/Sky-Starter/
 
 == Changelog ==
 
 = 1.0.0 =
-* Bug fix: Image field returns correct url after selecting one or more images
-* Translation: Added Polish translation. Thank you Bartosz Arendt - Digital Factory - www.digitalfactory.pl
-* Update : Added id attribute to all div.field (id="acf-$field_name")
+* Initial Version
